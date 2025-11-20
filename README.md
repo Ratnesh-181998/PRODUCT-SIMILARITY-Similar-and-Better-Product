@@ -143,6 +143,7 @@ objective of enhancing transparency and efficiency in public procurement. It imp
 processes such as: Bid Process (seller evaluation and technical rejection), Incident Management and 
 Catalogue Management System (CMS) which detects price abnormalities and ensures sellers quote 
 realistic prices, maintaining the integrity of the product listings
+![Uploading image.png…]()
 
 Integration & API: Developed and integrated RESTful APIs using FlaskAPI :
 
