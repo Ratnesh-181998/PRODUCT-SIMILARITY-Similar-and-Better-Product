@@ -127,7 +127,7 @@ variables.
 4. Scaling the parameter attribute’s values within 0 and 1.  
 5. Importance of parameter calculation using ML algorithm. 
 6. Final Score table by summing parameter’s attribute value.
-   <img width="1338" height="396" alt="image" src="https://github.com/user-attachments/assets/5760ca10-46b3-423a-ae22-61a51e817285" />
+<img width="1338" height="396" alt="image" src="https://github.com/user-attachments/assets/5760ca10-46b3-423a-ae22-61a51e817285" />
 
 Business Value:  
 
@@ -143,7 +143,9 @@ objective of enhancing transparency and efficiency in public procurement. It imp
 processes such as: Bid Process (seller evaluation and technical rejection), Incident Management and 
 Catalogue Management System (CMS) which detects price abnormalities and ensures sellers quote 
 realistic prices, maintaining the integrity of the product listings
-![Uploading image.png…]()
+
+<img width="1984" height="1086" alt="image" src="https://github.com/user-attachments/assets/729b4f16-1d20-4a02-a5f5-3e946eca0a96" />
+
 
 Integration & API: Developed and integrated RESTful APIs using FlaskAPI :
 
